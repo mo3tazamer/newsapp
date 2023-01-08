@@ -66,7 +66,7 @@ class Business extends StatelessWidget {
                   padding: const EdgeInsets.all(15),
                   child: ClipRRect(
                       borderRadius: BorderRadius.circular(500),
-///
+//////
                       child: Image.asset('assets/Nowifi.png')),
                 ),
                 const Text('Check your Connection '),
